@@ -17,6 +17,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,spring,figma)](https://skillicons.dev)
 
-## Estatisticas do Github
+## Estatísticas do Github
 
 ![kawlu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawlu&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
