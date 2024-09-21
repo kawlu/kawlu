@@ -4,9 +4,9 @@
 
 - 👨‍💻 Me chamo Lucas Reis, tenho 21 anos e estou no 4° semestre.
 - 🌱 Estudo na Universidade Veiga de Almeida.
-- 📚 Estudando atualmente tudo sobre Dados e Desenvolvimento de Software 😅.
+- 📚 Estudando atualmente tudo sobre Dados e Desenvolvimento de Software.
 - 💪🏼 Metas: Aprender novas tecnologias, participar de hackatons, participar de diferentes projetos.
-- :computer: Meu **[LinkedIn](https://www.linkedin.com/in/lucas-sdr/)**.
+- 💻 Meu **[LinkedIn](https://www.linkedin.com/in/lucas-sdr/)**.
 - 📫 Como entrar em contato: **lusantreis@gmail.com**.
 
 ## Linguagens que uso
