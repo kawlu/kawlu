@@ -15,7 +15,7 @@
 
 ## Algumas tecnologias que uso
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,spring,figma,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,idea)](https://skillicons.dev)
 
 ## Estatísticas do Github
 
