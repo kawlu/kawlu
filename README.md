@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 👨‍💻 Me chamo Lucas Reis, tenho 22 anos, faço ciência da computação e estou no 7° semestre.
+- 👨‍💻 Me chamo Lucas Reis, tenho 23 anos, faço ciência da computação e estou no 7° semestre.
 - 📚 Estudo na Universidade Veiga de Almeida.
 - 💻 Estudando atualmente Desenvolvimento Fullstack.
 - 📫 Como entrar em contato: **lusantreis@gmail.com**.
